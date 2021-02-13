@@ -46,7 +46,10 @@ zh-CN | What problems I encountered and how did I solve it (with failed attempts
 8. 删除这本书的所有记录和sdr文件，新建立一个txt文档放书，在calibre建立一个新entry，转换成azw3后导入成功了。
 
 # What I have
-Laptop: MacBook Pro 16 inch, 2019. 2.6 GHz 6-core Intel i7, 32 GB memory.
+Laptop: MacBook Pro 16 inch, 2019. 
+
 System: macOS Catalina 10.15.7
+
 Mouse: Logitech MX Master
+
 Kindle: Oasis 3 (2020)
