@@ -42,6 +42,7 @@ zh-CN | What problems I encountered and how did I solve it (with failed attempts
 7. 排除了因为气温过低而可能导致的死机问题。
 
 最后的解决办法是：
+
 8. 删除这本书的所有记录和sdr文件，新建立一个txt文档放书，在calibre建立一个新entry，转换成azw3后导入成功了。
 
 # What I have
